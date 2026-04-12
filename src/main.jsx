@@ -8,7 +8,7 @@ import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter> 
+    <BrowserRouter basename="https://github.com/pedrohgaldino/Portfolio-React"> 
       <nav style={{ padding: '20px', background: '#f4f4f4', marginBottom: '20px' }}>
         <Link to="/">Página Inicial</Link> | 
         <Link to="/sobre"> Sobre</Link> | 
