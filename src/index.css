@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  color: #333;
+}
+nav {
+  background: #003566; /* Azul CIn */
+  padding: 1rem;
+  border-radius: 8px;
+}
+nav a {
+  color: rgb(67, 4, 243);
+  text-decoration: none;
+  margin-right: 15px;
+  font-weight: bold;
+}
