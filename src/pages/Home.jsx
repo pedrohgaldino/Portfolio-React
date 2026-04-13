@@ -5,7 +5,7 @@ export default function Home() {
         <h1>{/* Nome Completo */} Pedro Henrique Cabral Galdino dos Santos</h1>
 
         <img 
-        src="src/assets/Foto de Perfil.jfif"
+        src="/foto-perfil.jfif"
         alt="Foto de Pedro Henrique Cabral Galdino dos Santos" 
         style={{
           width: '200px',
